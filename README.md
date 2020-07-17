@@ -11,7 +11,7 @@ composer global require laravel/installer
 ```
 
 
-## el repositorio se debe de clonar en la direccion  C:/laragon/www (o del gestor que se use)
+## El repositorio se debe de clonar en la direccion  C:/laragon/www (o del gestor que se use)
 ## Instalamos las dependecias
 ```
 npm install
